@@ -9,3 +9,10 @@ The project specifically designs a flower image recognition system based on deep
   3. the train section will be input into the system which contains several layers of convolutional neural networks. By adjusting the parameters from the neural learning network such as learning rate, drop-out rate, and decay rate, the system will finally reach the optimal performance. 
         
 In this case, users simply upload an image and the system will input it into corresponding structures based on the features of the image. Finally, the system will automatically return some similar images to the users. This can be applied to other image recognition areas such as mood-detecting and vehicle recognition.
+
+
+A Flower-Image Search System Based on Deep Learning(Patent Number: 2019100352, granted by Commissioner of Patents, Australia)
+
+Inventor(s)
+
+TAN, YUFAN;WU, JINGWEN;YANG, YUANBO;DUAN, ZICHENG;LIANG, JIE;YU, YIXUAN
